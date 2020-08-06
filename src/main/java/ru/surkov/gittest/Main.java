@@ -7,8 +7,6 @@ public class Main {
     }
     //fork:c1
     //master: c4
-    //master: c5
-    //master: c6
     //f2
     //master: c7
     //master: c8
